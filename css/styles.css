@@ -33,6 +33,11 @@ body {
   margin: 50px auto;
 }
 
+.resume .resume_all {
+  width: 800px;
+  background: #0092f4;
+}
+
 .resume .resume_left {
   width: 280px;
   background: #0092f4;
