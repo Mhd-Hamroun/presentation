@@ -49,8 +49,9 @@ body {
 }
 
 .resume .resume_left .resume_profile img {
-  width: 35%;
+  /*width: 50%;*/
   height: 100%;
+  text-align: center;
 }
 
 .resume .resume_left .resume_content {
